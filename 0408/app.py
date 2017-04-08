@@ -1,5 +1,6 @@
 # coding:utf-8
 
+# jandan.com
 
 # count = 2425
 url = 'http://jandan.net/ooxx/page-'
