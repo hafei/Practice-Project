@@ -36,7 +36,8 @@ s.set_age = MethodType(set_age, s)
 s.set_age(25)
 
 print(s.age)
-
+s.score = 80
+print(s.score)
 print(s.say)
 # Student.set_age = set_age
 
